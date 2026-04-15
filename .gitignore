@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Generated plots (large PNG files)
+*.png
+
+# OS
+.DS_Store
